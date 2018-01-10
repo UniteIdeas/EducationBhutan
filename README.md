@@ -1,4 +1,4 @@
-# EducationBhutan
+# Education Bhutan
 
 Building a resource management system for the national education system in Bhutan.
 
